@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="estilos.xsl"?>
+<coleccion_manga>
+    <manga id="dbs-01">
+        <titulo>Dragon Ball Super</titulo>
+        <autor>Akira Toriyama / Toyotaro</autor>
+        <genero>Shonen / Accion</genero>
+        <volumenes_totales>23</volumenes_totales>
+        <estado>En publicacion</estado>
+    </manga>
+    <manga id="msh-02">
+        <titulo>Mashle: Magic and Muscles</titulo>
+        <autor>Hajime Komoto</autor>
+        <genero>Comedia / Fantasia</genero>
+        <volumenes_totales>18</volumenes_totales>
+        <estado>Finalizado</estado>
+    </manga>
+</coleccion_manga>
